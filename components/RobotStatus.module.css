@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+.connected {
+  color: green;
+}
+
+.disconnected {
+  color: red;
+}
+
+.pose {
+  margin: 1rem;
+}
+
+.pose strong {
+  font-weight: bold;
+  display: block;
+}
